@@ -11,7 +11,7 @@ Este es un proyecto básico que muestra cómo procesar un archivo XML en una apl
 ## Uso
 
 1. Agrega tu archivo XML con los datos que deseas procesar en el directorio raíz del proyecto con el nombre `datos.xml`.
-2. Ejecuta la aplicación con el comando `node app.js`.
+2. Ejecuta la aplicación con el comando `node app.js` ó `npm start`.
 3. Abre tu navegador web y visita `http://localhost:3000` para ver los datos XML procesados.
 
 ## Estructura del Proyecto
@@ -20,4 +20,8 @@ Este es un proyecto básico que muestra cómo procesar un archivo XML en una apl
 - `index.html`: Página web para mostrar los datos XML procesados.
 - `datos.xml`: Archivo XML con los datos a procesar.
 - `package.json`: Archivo de configuración del proyecto que lista las dependencias y scripts de npm.
+- `/routes/`: Directorio de rutas.
+- `/views/`: Directorio de plantillas.
+
+
 
