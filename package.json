@@ -1,0 +1,36 @@
+{
+  "name": "xml_processer",
+  "version": "1.0.0",
+  "description": "nodejs app with xml processer",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "fast-xml-parser": "^4.3.5",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martacanirome4/nodeJS-XML-processer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "xml",
+    "api",
+    "web"
+  ],
+  "author": "Marta Canino Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martacanirome4/nodeJS-XML-processer/issues"
+  },
+  "homepage": "https://github.com/martacanirome4/nodeJS-XML-processer#readme"
+}
