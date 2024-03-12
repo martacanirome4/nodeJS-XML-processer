@@ -6,4 +6,14 @@ body {
   a {
     color: #00B7FF;
   }
+
+  h1  {
+    color: #ff00c3;
+    size: 60px;
+  }
+
+  h2 {
+    color: #b700ff;
+    size: 40px;
+  }
   
